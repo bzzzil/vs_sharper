@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "Name": "Sharper",
+  "Version": "0.0",
+  "Description": "Sharp tools are more effective. Isn't it?",
+  "ModID": "sharper",
+  "Authors": [ "bzzzil" ],
+  "RequiredOnClient": true,
+  "Dependencies": {
+		"game": "1.12.14"
+  }
+}
