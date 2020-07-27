@@ -7,7 +7,7 @@
 		base: "item/whetstone"
 	},
 	creativeinventory: { "general": ["*"], "items": ["*"] },
-
+	storageFlags: 5,
 	guiTransform: {
 		translation: { x: 2, y: 0, z: 0 },
 		rotation: { x: 149, y: -36, z: 0 },
