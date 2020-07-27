@@ -1,3 +1,7 @@
 ﻿{
   "item-whetstone": "Whetstone",
+  "itemdesc-whetstone": "Rather rough whetstone for sharpening tools. Soft stones are not suitable for it.",
+
+  "craftinginfo-sharpening-title": "Crafting Mechanic: Sharpening",
+  "craftinginfo-sharpening-text": "<strong>Sharpening</strong><br>TODO",
 }
