@@ -1,7 +1,7 @@
 {
-  "type": "content",
+  "type": "code",
   "Name": "Sharper",
-  "Version": "0.0",
+  "Version": "0.0.0",
   "Description": "Sharp tools are more effective. Isn't it?",
   "ModID": "sharper",
   "Authors": [ "bzzzil" ],

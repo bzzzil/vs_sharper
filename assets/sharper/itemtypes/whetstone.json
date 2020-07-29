@@ -1,5 +1,7 @@
 {
 	code: "whetstone",
+	class: "Whetstone",
+	durability: 30,
 	shape: {
 		base: "item/whetstone"
 	},
